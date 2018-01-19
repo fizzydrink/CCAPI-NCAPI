@@ -21,7 +21,7 @@ namespace CCAPI_NCAPI
         string myAuthor = "Enstone,iMCSx,Fizzydrink";
         string myVersion = "2.80";
         string myPlatform = "PS3";
-        string myContactLink = "http://www.enstoneworld.com/articles/view/15/ControlConsole_API";
+        string myContactLink = "https://github.com/fizzydrink/CCAPI-NCAPI/tree/master/CCAPI-NCAPI-master";
         System.Drawing.Image myIcon = Properties.Resources.ico;
 
         /// <summary>

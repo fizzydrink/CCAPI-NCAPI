@@ -1,4 +1,4 @@
-﻿﻿// ************************************************* //
+﻿// ************************************************* //
 //    --- Copyright (c) 2014 iMCS Productions ---    //
 // ************************************************* //
 //              PS3Lib v4 By FM|T iMCSx              //
@@ -147,7 +147,8 @@ namespace CCAPI_NCAPI
 
 
         private IntPtr libModule = IntPtr.Zero;
-       // private readonly string CCAPIHASH = "C2FE9E1C387CF29AAC781482C28ECF86";
+				
+				//md5 of ccapi.dll in uppercase
         private readonly string CCAPIHASH = "44F8C8BC576CA8BA3F99EF46C2E4B9C3";
         private string programPath = "";
 
