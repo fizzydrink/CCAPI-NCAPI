@@ -160,7 +160,8 @@ namespace CCAPI_NCAPI
 
             if (Key != null)
             {
-                string Path = Key.GetValue("path") as String;
+                //string Path = Key.GetValue("path") as String;
+                string Path = ".\\APIs\\CCAPI 2.80";
                 programPath = Path;
                 if (!string.IsNullOrEmpty(Path))
                 {

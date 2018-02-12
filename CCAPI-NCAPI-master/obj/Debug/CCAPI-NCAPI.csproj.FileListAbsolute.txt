@@ -1,0 +1,9 @@
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\bin\Debug\CCAPI-NCAPI.dll
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\bin\Debug\CCAPI-NCAPI.pdb
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\bin\Debug\NCAppInterface.dll
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\bin\Debug\NCAppInterface.pdb
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\obj\Debug\CCAPI-NCAPI.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\obj\Debug\CCAPI_NCAPI.Properties.Resources.resources
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\obj\Debug\CCAPI-NCAPI.csproj.GenerateResource.Cache
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\obj\Debug\CCAPI-NCAPI.dll
+D:\Documents\GitHub\CCAPI-NCAPI\CCAPI-NCAPI-master\obj\Debug\CCAPI-NCAPI.pdb
